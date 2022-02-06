@@ -5,12 +5,12 @@
 
 Welcome to my Github profile. I am a software developer with a passion for problem-solving and bringing ideas to life. I have experience building web applications and working with JavaScript, React, Redux, Node, Express, Pyton, Flask, PostgreSQL, and HTML/CSS. After working for five years in the world of media/advertising, I never thought I'd be where I am today, but I'm so glad that I took the risk to quit my job and venture into a new career path. I've discovered a new passion for software development and am so excited for whatever the future holds. I'm an enthusiastic teammate with a growth mindset, eager to learn and grow from every opportunity.
 
-- 👨‍💻 All of my projects are available at [josephjyang.com](josephjyang.com)
+- 👨‍💻 All of my projects are available at [josephjyang.com](https://www.josephjyang.com)
 - 🔭 I’m currently working on [Show Me My Money](https://github.com/josephjyang/show-me-my-money)
 - 🌱 I’m currently learning **data structures and algorithms**
 - 💬 Ask me about **my full-stack applications**
 - 📫 You can reach me at **josephjyang@gmail.com**
-- 📄 Know about my experiences [http://josephjyang.github.io/Yang_Joseph_Resume.pdf](http://josephjyang.github.io/Yang_Joseph_Resume.pdf)
+- 📄 Know about my experiences - [Resume](http://josephjyang.github.io/Yang_Joseph_Resume.pdf)
 - ⚡ Fun fact **I play four different musical instruments (🥁, 🎸, 🎹, 🎻)**
 
 
